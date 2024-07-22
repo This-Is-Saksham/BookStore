@@ -4,3 +4,9 @@
 # new user can only access to the free category books
 
 ## this project has backend with Nodejs and frontend with Reactjs
+
+
+
+## Commands #
+for frontend - npm run dev
+for backend - npm start
